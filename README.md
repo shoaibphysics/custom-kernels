@@ -11,6 +11,8 @@ notebooks.
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shoaibphysics/custom-kernels/blob/main/notebooks/02_cpu_performance_basics.ipynb) [02_cpu_performance_basics.ipynb](notebooks/02_cpu_performance_basics.ipynb) — CPU benchmarking, Python versus NumPy, memory layout, dependencies, and threading.
 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shoaibphysics/custom-kernels/blob/main/notebooks/03_first_triton_kernel.ipynb) [03_first_triton_kernel.ipynb](notebooks/03_first_triton_kernel.ipynb) — First Triton GPU kernel: vector addition, programs, offsets, masks, correctness checks, and bandwidth benchmarking against PyTorch.
+
 ## Getting started
 
 Open a notebook using its **Open in Colab** button, or install the
